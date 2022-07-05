@@ -84,7 +84,7 @@ box-sizing: border-box;
 @media (min-width: 768px){
 
     .home__header__banner{
-         display: inline;
+         display: none;
         }
     
     }
