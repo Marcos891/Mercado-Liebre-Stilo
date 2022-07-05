@@ -1,0 +1,46 @@
+/* body */
+
+
+/* header */
+.home__header{
+    background-color: #EAC926;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+
+}
+
+
+
+/* main */
+
+.home__main__section h5{
+    font-size: 18px;
+}
+
+.home__main__section h6{
+    font-size: 16px;
+
+}
+
+.home__main__section h4{
+    font-size: 24px;
+    
+
+}
+
+/* footer */
+
+.home__footer li{
+    list-style-type: none;
+}
+
+.home__footer h4{
+    
+    color:#666;;
+}
+
+.home__footer p{
+    color: #a3a2a2;
+    font-size: 12px;
+}
+

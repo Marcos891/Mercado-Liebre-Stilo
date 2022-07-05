@@ -1,0 +1,90 @@
+/* body */
+
+/* header */
+
+.home__header{
+
+}
+
+.home__header__logo{
+    padding: 10px;
+}
+
+.home__header__buscador{
+
+}
+
+.home__header__dollar{
+    display: flex;
+
+}
+
+.home__header__banner{
+    width: 100px;
+    display: none;
+    margin-top: 20px;
+
+}
+
+.home__header__menu{
+
+}
+
+.home__header__burger{
+color: white;
+background-color:#03264C;
+text-align: center;
+margin: auto;
+padding-top: 5px;
+width: 30px;
+height: 22px;
+border-radius: 4px;
+}
+
+
+
+/* main */
+
+.home__main{
+
+}
+
+.home__main__section div img{
+
+width: 300px;
+margin: auto;
+box-sizing: border-box;
+
+}
+
+
+/* footer */
+.home__footer{
+
+}
+
+.home__footer__card{
+    text-align: center;
+    color: #1259c3;
+    
+}
+
+.home__footer__gift{
+    text-align: center;
+    color: #1259c3;
+}
+
+.home__footer__shield{
+    text-align: center;
+    color: #1259c3;
+}
+
+
+
+@media (min-width: 768px){
+
+    .home__header__banner{
+         display: inline;
+        }
+    
+    }
